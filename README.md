@@ -1,4 +1,4 @@
-### LEE SANGHYEOB 👋
+### LEE SANGHYEOB
 
 ABOUT : [Sang Hyeob](https://www.sanghyeob.com)
 
