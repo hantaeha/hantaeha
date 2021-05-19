@@ -1,13 +1,14 @@
-### LEE SANGHYEOB
+# LEE SANGHYEOB
 
 B.S. in Electronics Engineering  
 M.S in Arts and Science  
 Senior researcher at LG Electronics, HE  
-Researcher at Creative-Computing-Lab  
-# Artificial Intelligence and Sound  
-
+Researcher at [Creative-Computing-Lab](https://www.creative-computing.org/)  
+  
+### Artificial Intelligence and Sound  
+  
 ABOUT : [Sang Hyeob](https://www.sanghyeob.com)
-
+  
 <!--
 **hantaeha/hantaeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
