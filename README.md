@@ -1,5 +1,11 @@
 ### LEE SANGHYEOB
 
+B.S. in Electronics Engineering  
+M.S in Arts and Science  
+Senior researcher at LG Electronics, HE  
+Researcher at Creative-Computing-Lab  
+# Artificial Intelligence and Sound  
+
 ABOUT : [Sang Hyeob](https://www.sanghyeob.com)
 
 <!--
