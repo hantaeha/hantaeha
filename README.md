@@ -1,4 +1,6 @@
-### Hi there 👋
+### LEE SANGHYEOB 👋
+
+ABOUT : [Sang Hyeob](https://www.sanghyeob.com)
 
 <!--
 **hantaeha/hantaeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
