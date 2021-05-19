@@ -4,6 +4,7 @@ B.S. in Electronics Engineering
 Senior researcher at LG Electronics, HE  
 M.S in Arts and Science  
 Researcher at [Creative-Computing-Lab](https://www.creative-computing.org/)  
+Data-Driven UX Product Planner  
   
 ### Artificial Intelligence and Sound  
   
