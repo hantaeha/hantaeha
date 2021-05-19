@@ -7,9 +7,6 @@ Researcher at [Creative-Computing-Lab](https://www.creative-computing.org/)
 Data-Driven UX Product Planner  
   
 ### Artificial Intelligence and Sound  
-  
-More Info : [Sang Hyeob](https://www.sanghyeob.com)
-  
 <!--
 **hantaeha/hantaeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
