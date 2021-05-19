@@ -1,7 +1,7 @@
 # LEE SANGHYEOB
 
 B.S. in Electronics Engineering  
-Senior researcher at LG Electronics, HE 
+Senior researcher at LG Electronics, HE  
 M.S in Arts and Science  
 Researcher at [Creative-Computing-Lab](https://www.creative-computing.org/)  
   
