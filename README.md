@@ -7,7 +7,7 @@ Researcher at [Creative-Computing-Lab](https://www.creative-computing.org/)
 Data researcher & Product planner at [Weavers Lab](https://www.weaverslab.co.kr/#/)  
 Data-Driven UX & Product Planner  
   
-Interested in ### Artificial Intelligence and Sound  
+### Artificial Intelligence and Sound  
 <!--
 **hantaeha/hantaeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
