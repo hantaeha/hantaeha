@@ -1,4 +1,4 @@
-# LEE SANG HYEOB
+# Lee Sanghyeob
 
 B.S. in Electronics Engineering  
 Senior researcher at LG Electronics, HE  
