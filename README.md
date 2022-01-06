@@ -5,7 +5,7 @@ Senior researcher at LG Electronics, HE
 M.S in Arts and Science  
 Researcher at [Creative-Computing-Lab](https://www.creative-computing.org/)  
 Data researcher & Product planner at [Weavers Lab](https://www.weaverslab.co.kr/#/)  
-Data-Driven UX & Product Planner  
+Data-Driven Product Planner & UX Researcher   
   
 ### Artificial Intelligence and Sound  
 <!--
