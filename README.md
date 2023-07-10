@@ -4,8 +4,8 @@ B.S. in Electronics Engineering
 Senior researcher at LG Electronics, HE  
 M.S in Arts and Science  
 Researcher at [Creative-Computing-Lab](https://www.creative-computing.org/)  
-Data researcher & Product planner at [Weavers Lab](https://www.weaverslab.co.kr/#/)  
-Data-Driven Product Planner & UX Researcher   
+Product planner at [Weavers Lab](https://www.weaverslab.co.kr/#/)  
+Top Product Maker of Product Hunt   
   
 ### Artificial Intelligence & Sound  
 <!--
